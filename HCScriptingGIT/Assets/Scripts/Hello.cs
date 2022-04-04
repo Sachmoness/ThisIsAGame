@@ -8,6 +8,7 @@ public class Hello : MonoBehaviour
     void Start()
     {
         print("Hello World");
+         print("Hello World Again");
     }
 
     // Update is called once per frame
